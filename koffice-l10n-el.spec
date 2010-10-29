@@ -1,5 +1,5 @@
 Name: koffice-l10n-el
-Version: 2.2.82
+Version: 2.2.83
 Release: %mkrel 1
 Summary: Language files for KOffice Greek
 Group: System/Internationalization
